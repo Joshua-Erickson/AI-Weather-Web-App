@@ -1,7 +1,8 @@
 This needs a ChatGPT API and an OpenWeather API to work.
 
 🌦️ AI-Powered Weather Web App
-A sleek, responsive weather application designed to deliver real-time forecasts with a twist of intelligence. Built with a modern tech stack and enhanced by OpenAI’s ChatGPT, this app doesn’t just show you the weather—it suggests what to do with it.
+
+  A sleek, responsive weather application designed to deliver real-time forecasts with a twist of intelligence. Built with a modern tech stack and enhanced by OpenAI’s ChatGPT, this app doesn’t just show you the weather—it suggests what to do with it.
 
 🔍 Features
   - Live Weather Updates: Temperature, precipitation, wind speed, UV index, and more.
@@ -13,14 +14,20 @@ A sleek, responsive weather application designed to deliver real-time forecasts 
   - Emergency Alerts: Floating red banners for critical weather updates.
 
 🛠️ Tech Stack
+
   Frontend:
+
     - JavaScript
     - Node.js
     - Next.js
     - TailwindCSS
+    
   Backend:
+   
     - Python
     - OpenWeather API
     - OpenAI ChatGPT API
+    
   Project Management: Trello
+  
   Version Control: Git & GitHub
